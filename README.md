@@ -63,7 +63,7 @@ Heating_Tunnel_Project/
    ```bash
    pip install -r requirements.txt
    ```
-4. Open the Jupyter Notebooks in the `notebooks` directory to follow each project phase:
+4. Open the Jupyter Notebooks in the directory to follow each project phase:
    ```bash
    jupyter Project_3(Smart_manufacturing).ipynb
    ```
