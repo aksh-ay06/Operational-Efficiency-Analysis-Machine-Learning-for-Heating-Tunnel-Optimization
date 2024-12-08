@@ -82,13 +82,6 @@ The project successfully identified two distinct operational patterns and highli
 
 ---
 
-## **Future Improvements**
-- Implement real-time monitoring of process parameters.
-- Integrate automated controls for standardizing operational procedures.
-- Correlate operational data with quality outcomes for better prediction.
-
----
-
 ## **Contributors**
 - **[Akshay Patel]**  
   Graduate Student in Industrial Engineering  
