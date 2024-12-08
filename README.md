@@ -53,11 +53,11 @@ Heating_Tunnel_Project/
 ## **How to Use**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/heating-tunnel-project.git
+   git clone https://github.com/aksh-ay06/Operational-Efficiency-Analysis-Machine-Learning-for-Heating-Tunnel-Optimization.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd heating-tunnel-project
+   cd Operational-Efficiency-Analysis-Machine-Learning-for-Heating-Tunnel-Optimization
    ```
 3. Install the required dependencies:
    ```bash
@@ -65,7 +65,7 @@ Heating_Tunnel_Project/
    ```
 4. Open the Jupyter Notebooks in the `notebooks` directory to follow each project phase:
    ```bash
-   jupyter notebook notebooks/Phase_1_Business_Understanding.ipynb
+   jupyter Project_3(Smart_manufacturing).ipynb
    ```
 
 ---
